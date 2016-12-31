@@ -1,1 +1,1 @@
-# structural-credit-risk-models
+# Structural Credit Risk Models
